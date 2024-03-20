@@ -10,4 +10,4 @@ Project Explaination:
 The Titanic Survival Prediction project demonstrates the application of machine learning techniques to solve a classic classification problem. By leveraging the available dataset and following a systematic approach, a predictive model is developed to classify passengers into survived or not survived categories with high accuracy,
 thereby contributing to the understanding of the factors influencing survival on the Titanic.
 
-Dataset : 
+Dataset : https://github.com/RoshiniMadan/CODSOFT/blob/main/Titanic-Dataset.csv
