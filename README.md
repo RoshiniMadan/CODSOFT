@@ -28,5 +28,5 @@ The task is to develop a machine learning model capable of classifying Iris flow
 Project Explaination:
 This project focuses on building a machine learning model to classify Iris flowers into their respective species based on their sepal and petal measurements. By leveraging the Iris dataset, which provides essential measurements for each flower sample, we aim to train a model capable of accurately distinguishing between the three species: setosa, versicolor, and virginica. Through data preprocessing, model selection, training, and evaluation, we seek to develop a robust classification system that can effectively categorize Iris flowers into their appropriate species.
 
-Dataset : 
+Dataset : https://github.com/RoshiniMadan/CODSOFT/blob/main/TASK%203/IRIS.csv
 
