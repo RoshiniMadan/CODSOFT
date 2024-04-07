@@ -37,5 +37,5 @@ Sales prediction involves forecasting the amount of a product that customers wil
 Project Explanation:
 In businesses that offer products or services, the role of a Data Scientist is crucial for predicting future sales. They utilize machine learning techniques in Python to analyze and interpret data, allowing them to make informed decisions regarding advertising costs. By leveraging these predictions, businesses can optimize their advertising strategies and maximize sales potential.
 
-Dataset : 
+Dataset : https://github.com/RoshiniMadan/CODSOFT/blob/main/TASK%204/advertising.csv
 
