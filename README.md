@@ -39,3 +39,12 @@ In businesses that offer products or services, the role of a Data Scientist is c
 
 Dataset : https://github.com/RoshiniMadan/CODSOFT/blob/main/TASK%204/advertising.csv
 
+Task 5 - CREDIT CARD FRAUD DETECTION
+Problem Statement:
+Detecting fraudulent credit card transactions is crucial for financial institutions to prevent monetary losses and ensure customer trust. However, class imbalance in transaction data poses a challenge, as fraudulent transactions are rare compared to genuine ones. Developing an effective machine learning model to accurately identify fraudulent transactions while minimizing false positives is essential for maintaining the integrity of the financial system.
+
+Project Explanation:
+This project aims to address the problem of credit card fraud detection by building a machine learning model. The dataset will undergo preprocessing and normalization to handle class imbalance issues, followed by techniques like oversampling or undersampling to ensure balanced representation. A classification algorithm such as logistic regression or random forests will be trained on the processed data to classify transactions as fraudulent or genuine. Performance evaluation using metrics like precision, recall, and F1-score will gauge the model's effectiveness in accurately identifying fraudulent transactions.
+
+Dataset : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
